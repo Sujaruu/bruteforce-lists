@@ -16,6 +16,18 @@
 /config.php
 /config/000000000000.cfg
 /config/y000000000000.cfg
+/config.gypi
+/config.json
+/config.ini
+/config.yaml
+/config.toml
+/config.properties
+/CONFIG.SYS
+/ConfigParser
+/config/juniper.conf
+/config/umbracoSettings.config
+/configuration/appSettings
+/ConnectionStrings.config
 /dashboard.config
 /default.config
 /Gallio.Ambience.Server.exe.config
@@ -46,3 +58,4 @@
 /wp-includes/modules/wp-config.php
 /xamlSyntax.config
 /xunit.console.exe.config
+
